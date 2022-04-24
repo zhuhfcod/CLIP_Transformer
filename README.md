@@ -12,8 +12,12 @@ CLIP_classfication_10.ipynb: Using CLIP to classify animals to ten classes: Buff
 ## Reference
 
 Dataset Reference
+
 https://www.kaggle.com/datasets/alessiocorrado99/animals10
+
 https://www.kaggle.com/datasets/ayushv322/animal-classification
 
+
 Model Reference
+
 https://github.com/OpenAI/CLIP
