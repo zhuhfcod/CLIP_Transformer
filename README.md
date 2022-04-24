@@ -1,6 +1,6 @@
 # Text-Image matching and Animal Classfication via CLIP
 
-In this project, we use CLIP to achieve two tasks: text-image matching and animal classfication 
+In this project, we use CLIP to achieve two tasks: text-image matching and animal classification 
 
 ## Contents
 1. CLIP_example.ipynb: Using CLIP to achieve some image and text matching
