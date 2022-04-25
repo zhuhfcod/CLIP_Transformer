@@ -9,6 +9,8 @@ In this project, we use CLIP to achieve two tasks: text-image matching and anima
 
 ## Huggingface Space
 
+Link: https://huggingface.co/spaces/Haofeng/CLIP-Transformer-Project
+
 ## Reference
 
 1. https://www.kaggle.com/datasets/alessiocorrado99/animals10
